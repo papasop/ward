@@ -131,3 +131,4 @@ print("\n=== (C) Nonlinear 3-term certificate (manufactured-consistent, FIXED) =
 for N in (32,48,64,96):
     nonlinear_certificate_demo_fixed(N)
 
+
